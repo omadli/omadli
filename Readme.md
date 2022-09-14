@@ -73,6 +73,7 @@
   ![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=flat&logo=fastapi)&nbsp;
   ![Telegram-bot](https://img.shields.io/badge/-Telegram%20bot-0D1117?style=flat&logo=telegram)&nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
+  ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=Cplusplus)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
@@ -93,7 +94,7 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/Pepyn0">
+  <a href="https://github.com/omadli">
     <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=omadli&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/omadli">
