@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/omadli/omadli/raw/output/my.png" alt="Card header"/>
+  <img src="https://github.com/omadli/omadli/raw/master/output/my.png" alt="Card header"/>
 </div>
 
 <p align="center">
@@ -118,7 +118,7 @@
 <!-- ![Snake animation](https://github.com/omadli/omadli/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
-  <img src="https://github.com/omadli/omadli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 <!-- ## 📚 &nbsp;My Projects -->
